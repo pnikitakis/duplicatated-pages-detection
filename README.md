@@ -1,6 +1,8 @@
 # duplicatated-pages-detection
 Implemented simhash technique to estimate duplicated pages in a given dataset. University project for Information Retrieval (Spring 2015)
 
+Final report can be found [here](https://github.com/pnikitakis/duplicatated-pages-detection/blob/main/Final%20Report%20%5BGR%5D.pdf) **in Greek**.
+
 ## Prerequisites
 - Matlab 2012b+
 - Matlab: 'Statistics and Machine Learning Toolbox
